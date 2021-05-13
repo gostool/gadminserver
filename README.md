@@ -1,0 +1,2 @@
+# gadminserver
+go admin server
